@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/karlis/Documents/Arduino/libraries/Adafruit_NeoPixel-1.7.0",
+                "C:/Users/karlis/Documents/Arduino/libraries/ArduinoJoystickLibrary-2.0.7",
+                "C:/Users/karlis/Documents/Arduino/libraries/ArduinoJoystickLibrary-2.0.7/src",
+                "C:/Program Files (x86)/Arduino/libraries/Joystick/src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
